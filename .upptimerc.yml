@@ -3,8 +3,16 @@ owner: deer-wmde # Your GitHub organization or username, where this repository l
 repo: wikibase-dev-uptime # The name of this repository
 
 sites:
-  - name: api.wikibase.dev
+  - name: Frontend
+    url: https://www.wikibase.dev/
+  - name: API
     url: https://api.wikibase.dev/healthz
+  - name: Mediawiki
+    url: https://coffeebase.wikibase.dev/
+  - name: Wikibase
+    url: https://coffeebase.wikibase.dev/wiki/Item:Q1
+  - name: CirrusSearch
+    url: https://coffeebase.wikibase.dev/w/api.php?action=wbsearchentities&search=q1&format=json&errorformat=plaintext&language=en&uselang=en&type=item
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
