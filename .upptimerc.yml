@@ -15,7 +15,7 @@ sites:
     url: https://coffeebase.wikibase.dev/w/api.php?action=wbsearchentities&search=q1&format=json&errorformat=plaintext&language=en&uselang=en&type=item
   - name: 404 Test
     url: https://test.wikibase.dev/
-  - name: 404 Test #2
+  - name: 404 Test no. 2
     url: https://test2.wikibase.dev/
 
 status-website:
