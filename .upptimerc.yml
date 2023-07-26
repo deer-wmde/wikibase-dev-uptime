@@ -18,10 +18,10 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
-  baseUrl: /wikibase-dev-uptime
+  #baseUrl: /wikibase-dev-uptime
   logoUrl: https://github.com/deer-wmde/wikibase-dev-uptime/blob/d72941c945c5056041c1f81664f74c2c1f572863/assets/wbc-logo.png?raw=true
   faviconSvg: https://raw.githubusercontent.com/deer-wmde/wikibase-dev-uptime/master/assets/favicon.ico
-  theme: https://raw.githubusercontent.com/deer-wmde/wikibase-dev-uptime/master/assets/theme.css
+  themeUrl: https://raw.githubusercontent.com/deer-wmde/wikibase-dev-uptime/master/assets/theme.css
   name: wikibase.dev Status Page
   introTitle: "TEST wikibase.dev"
   introMessage: This Status Page is just a test instance. wikibase.dev is the staging deployment of wikibase.cloud. This page shows the status of the different components.
