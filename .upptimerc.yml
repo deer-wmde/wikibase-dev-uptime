@@ -21,8 +21,8 @@ status-website:
   baseUrl: /wikibase-dev-uptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: wikibase.dev Status Page
-  introTitle: "WIP - wikibase.dev is the staging deployment of wikibase.cloud."
-  introMessage: wikibase.dev is the staging deployment of wikibase.cloud. This page shows the status of the different components (WIP!).
+  introTitle: "TEST wikibase.dev"
+  introMessage: This Status Page is just a test instance. wikibase.dev is the staging deployment of wikibase.cloud. This page shows the status of the different components.
   navbar:
     - title: Status
       href: /
