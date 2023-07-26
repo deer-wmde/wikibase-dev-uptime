@@ -31,7 +31,7 @@ status-website:
   introMessage: This Status Page is just a test instance. wikibase.dev is the staging deployment of wikibase.cloud. This page shows the status of the different components.
   navbar:
     - title: Status
-      href: /wikibase-dev-uptime
+      href: /
     - title: wikibase.dev
       href: https://wikibase.dev
     - title: GitHub
