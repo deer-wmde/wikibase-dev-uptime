@@ -20,6 +20,7 @@ status-website:
   # cname: demo.upptime.js.org
   baseUrl: /wikibase-dev-uptime
   logoUrl: https://github.com/deer-wmde/wikibase-dev-uptime/blob/d72941c945c5056041c1f81664f74c2c1f572863/assets/wbc-logo.png?raw=true
+  faviconSvg: https://raw.githubusercontent.com/deer-wmde/wikibase-dev-uptime/master/assets/favicon.ico
   theme: https://raw.githubusercontent.com/deer-wmde/wikibase-dev-uptime/master/assets/theme.css
   name: wikibase.dev Status Page
   introTitle: "TEST wikibase.dev"
