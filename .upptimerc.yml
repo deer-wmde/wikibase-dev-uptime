@@ -32,5 +32,8 @@ status-website:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
+  i18n:
+    footer: This is a test page for wikibase.dev. The reported status may not reflect the real availability. It is is [open source]($REPO) and powered by [Upptime](https://upptime.js.org)
+
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
