@@ -1,7 +1,7 @@
 url: https://coffeebase.wikibase.dev/w/api.php?action=wbsearchentities&search=q1&format=json&errorformat=plaintext&language=en&uselang=en&type=item
 status: up
 code: 200
-responseTime: 345
-lastUpdated: 2023-08-08T23:13:20.202Z
+responseTime: 468
+lastUpdated: 2023-08-09T23:13:42.301Z
 startTime: Wed Jul 26 2023 16:02:27 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
