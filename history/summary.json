@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.wikibase.dev.ico",
     "slug": "frontend",
     "status": "up",
-    "uptime": "99.89%",
+    "uptime": "99.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.89%",
-    "time": 430,
-    "timeDay": 470,
-    "timeWeek": 432,
+    "uptimeYear": "99.90%",
+    "time": 429,
+    "timeDay": 327,
+    "timeWeek": 394,
     "timeMonth": 434,
-    "timeYear": 430,
+    "timeYear": 429,
     "dailyMinutesDown": {
       "2023-08-01": 91
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
-    "time": 626,
-    "timeDay": 570,
-    "timeWeek": 682,
+    "time": 624,
+    "timeDay": 511,
+    "timeWeek": 643,
     "timeMonth": 625,
-    "timeYear": 626,
+    "timeYear": 624,
     "dailyMinutesDown": {
       "2023-08-01": 77
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
-    "time": 995,
-    "timeDay": 881,
-    "timeWeek": 899,
-    "timeMonth": 968,
-    "timeYear": 995,
+    "time": 993,
+    "timeDay": 784,
+    "timeWeek": 853,
+    "timeMonth": 967,
+    "timeYear": 993,
     "dailyMinutesDown": {
       "2023-08-01": 76
     }
@@ -70,11 +70,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
-    "time": 384,
-    "timeDay": 352,
-    "timeWeek": 453,
-    "timeMonth": 383,
-    "timeYear": 384,
+    "time": 382,
+    "timeDay": 267,
+    "timeWeek": 407,
+    "timeMonth": 382,
+    "timeYear": 382,
     "dailyMinutesDown": {
       "2023-08-01": 76
     }
@@ -90,11 +90,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
-    "time": 413,
-    "timeDay": 335,
-    "timeWeek": 555,
+    "time": 410,
+    "timeDay": 142,
+    "timeWeek": 256,
     "timeMonth": 332,
-    "timeYear": 413,
+    "timeYear": 410,
     "dailyMinutesDown": {
       "2023-08-01": 75
     }
@@ -110,11 +110,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.61%",
-    "time": 543,
-    "timeDay": 589,
-    "timeWeek": 545,
-    "timeMonth": 550,
-    "timeYear": 543,
+    "time": 541,
+    "timeDay": 404,
+    "timeWeek": 507,
+    "timeMonth": 552,
+    "timeYear": 541,
     "dailyMinutesDown": {
       "2023-07-26": 341
     }
@@ -130,13 +130,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 562,
-    "timeDay": 565,
-    "timeWeek": 548,
-    "timeMonth": 547,
-    "timeYear": 562,
+    "time": 560,
+    "timeDay": 425,
+    "timeWeek": 499,
+    "timeMonth": 550,
+    "timeYear": 560,
     "dailyMinutesDown": {
-      "2023-09-25": 46,
+      "2023-09-26": 46,
+      "2023-09-25": 1440,
       "2023-09-24": 1440,
       "2023-09-23": 1440,
       "2023-09-22": 1440,
