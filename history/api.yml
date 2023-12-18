@@ -1,7 +1,7 @@
 url: https://api.wikibase.dev/healthz
-status: down
-code: 404
-responseTime: 323
-lastUpdated: 2023-12-18T11:08:40.830Z
+status: up
+code: 200
+responseTime: 1123
+lastUpdated: 2023-12-18T11:19:09.318Z
 startTime: 2023-07-26T16:02:24.000Z
 generator: Upptime <https://github.com/upptime/upptime>
