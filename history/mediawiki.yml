@@ -1,7 +1,7 @@
 url: https://coffeebase.wikibase.dev/
-status: up
-code: 200
-responseTime: 873
-lastUpdated: 2024-01-25T23:15:06.188Z
+status: down
+code: 502
+responseTime: 367
+lastUpdated: 2024-01-26T18:55:37.025Z
 startTime: 2023-07-26T16:02:25.000Z
 generator: Upptime <https://github.com/upptime/upptime>
