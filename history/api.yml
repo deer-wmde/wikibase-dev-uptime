@@ -1,7 +1,7 @@
 url: https://api.wikibase.dev/healthz
 status: up
 code: 200
-responseTime: 651
-lastUpdated: 2024-04-13T23:14:13.251Z
+responseTime: 750
+lastUpdated: 2024-04-15T00:01:50.284Z
 startTime: 2023-07-26T16:02:24.000Z
 generator: Upptime <https://github.com/upptime/upptime>
