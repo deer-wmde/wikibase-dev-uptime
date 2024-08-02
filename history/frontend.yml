@@ -1,7 +1,7 @@
 url: https://www.wikibase.dev/
-status: down
-code: 503
-responseTime: 592
-lastUpdated: 2024-08-02T09:33:32.756Z
+status: up
+code: 200
+responseTime: 584
+lastUpdated: 2024-08-02T09:40:19.432Z
 startTime: 2023-07-26T16:02:23.000Z
 generator: Upptime <https://github.com/upptime/upptime>
