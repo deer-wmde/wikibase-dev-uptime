@@ -4,19 +4,19 @@
     "url": "https://www.wikibase.dev/",
     "icon": "https://icons.duckduckgo.com/ip3/www.wikibase.dev.ico",
     "slug": "frontend",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.53%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 437,
-    "timeDay": 631,
-    "timeWeek": 485,
-    "timeMonth": 469,
-    "timeYear": 437,
+    "timeDay": 615,
+    "timeWeek": 496,
+    "timeMonth": 473,
+    "timeYear": 438,
     "dailyMinutesDown": {
-      "2024-08-02": 0
+      "2024-08-02": 7
     }
   },
   {
@@ -135,7 +135,7 @@
     "timeMonth": 542,
     "timeYear": 540,
     "dailyMinutesDown": {
-      "2024-08-02": 574,
+      "2024-08-02": 581,
       "2024-08-01": 1440,
       "2024-07-31": 1440,
       "2024-07-30": 1440,
