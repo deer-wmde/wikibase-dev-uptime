@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 442,
-    "timeDay": 438,
-    "timeWeek": 475,
-    "timeMonth": 472,
+    "timeDay": 463,
+    "timeWeek": 455,
+    "timeMonth": 475,
     "timeYear": 446,
     "dailyMinutesDown": {}
   },
@@ -24,18 +24,16 @@
     "slug": "api",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.50%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 686,
-    "timeDay": 743,
-    "timeWeek": 743,
-    "timeMonth": 730,
-    "timeYear": 701,
-    "dailyMinutesDown": {
-      "2024-10-01": 7
-    }
+    "time": 685,
+    "timeDay": 684,
+    "timeWeek": 690,
+    "timeMonth": 721,
+    "timeYear": 700,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Mediawiki",
@@ -44,17 +42,16 @@
     "slug": "mediawiki",
     "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "99.50%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
     "time": 984,
-    "timeDay": 676,
-    "timeWeek": 923,
-    "timeMonth": 979,
+    "timeDay": 678,
+    "timeWeek": 876,
+    "timeMonth": 972,
     "timeYear": 983,
     "dailyMinutesDown": {
-      "2024-10-01": 7,
       "2024-01-29": 42,
       "2024-01-26": 205
     }
@@ -66,17 +63,16 @@
     "slug": "wikibase",
     "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "99.50%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
     "time": 372,
-    "timeDay": 424,
-    "timeWeek": 401,
-    "timeMonth": 361,
+    "timeDay": 411,
+    "timeWeek": 385,
+    "timeMonth": 359,
     "timeYear": 371,
     "dailyMinutesDown": {
-      "2024-10-01": 7,
       "2024-01-29": 42,
       "2024-01-26": 205
     }
@@ -88,17 +84,16 @@
     "slug": "cirrus-search",
     "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "99.50%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
-    "time": 489,
+    "time": 488,
     "timeDay": 924,
-    "timeWeek": 475,
-    "timeMonth": 341,
-    "timeYear": 496,
+    "timeWeek": 467,
+    "timeMonth": 337,
+    "timeYear": 495,
     "dailyMinutesDown": {
-      "2024-10-01": 7,
       "2024-01-29": 42,
       "2024-01-26": 205
     }
@@ -115,9 +110,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 541,
-    "timeDay": 467,
-    "timeWeek": 593,
-    "timeMonth": 577,
+    "timeDay": 576,
+    "timeWeek": 573,
+    "timeMonth": 579,
     "timeYear": 542,
     "dailyMinutesDown": {}
   },
@@ -133,12 +128,13 @@
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 544,
-    "timeDay": 467,
-    "timeWeek": 586,
+    "timeDay": 513,
+    "timeWeek": 539,
     "timeMonth": 577,
     "timeYear": 542,
     "dailyMinutesDown": {
-      "2024-10-01": 710,
+      "2024-10-02": 62,
+      "2024-10-01": 1440,
       "2024-09-30": 1440,
       "2024-09-29": 1440,
       "2024-09-28": 1440,
@@ -501,8 +497,7 @@
       "2023-10-07": 1440,
       "2023-10-06": 1440,
       "2023-10-05": 1440,
-      "2023-10-04": 1440,
-      "2023-10-03": 1440
+      "2023-10-04": 1440
     }
   }
 ]
