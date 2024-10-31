@@ -4,18 +4,20 @@
     "url": "https://www.wikibase.dev/",
     "icon": "https://icons.duckduckgo.com/ip3/www.wikibase.dev.ico",
     "slug": "frontend",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 445,
-    "timeDay": 380,
-    "timeWeek": 520,
-    "timeMonth": 483,
-    "timeYear": 449,
-    "dailyMinutesDown": {}
+    "timeDay": 517,
+    "timeWeek": 537,
+    "timeMonth": 488,
+    "timeYear": 450,
+    "dailyMinutesDown": {
+      "2024-10-31": 0
+    }
   },
   {
     "name": "API",
@@ -133,7 +135,7 @@
     "timeMonth": 577,
     "timeYear": 545,
     "dailyMinutesDown": {
-      "2024-10-31": 64,
+      "2024-10-31": 930,
       "2024-10-30": 1440,
       "2024-10-29": 1440,
       "2024-10-28": 1440,
