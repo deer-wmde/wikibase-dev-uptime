@@ -1,7 +1,7 @@
 url: https://coffeebase.wikibase.dev/wiki/Item:Q1
-status: down
-code: 502
-responseTime: 109
-lastUpdated: 2024-11-18T03:20:21.638Z
+status: up
+code: 200
+responseTime: 309
+lastUpdated: 2024-11-18T03:45:10.727Z
 startTime: 2023-07-26T16:02:26.000Z
 generator: Upptime <https://github.com/upptime/upptime>
